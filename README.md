@@ -1,6 +1,6 @@
 # Flask + Docker + GitHub Actions CI/CD
 
-Prepared for **Thavamani Thapasuraman**.
+Prepared for **dasi venkata subramanyam**.
 
 This project demonstrates a production-style CI/CD pipeline for a simple Flask application using Docker and GitHub Actions.
 
